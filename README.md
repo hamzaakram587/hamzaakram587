@@ -1,8 +1,20 @@
-### Hi there, I'm Hamza Akram -
+### Hi there 👋, I'm Hamza Akram -
+I'm a passionate front-end developer with over a year of professional experience specializing in React.js. I thrive on building dynamic, responsive web applications and continuously exploring new technologies to enhance user experiences.
+
+What I Do:
+React.js Development: Building and maintaining modern web applications using React.js.
+UI/UX Design: Crafting intuitive and engaging interfaces.
+Performance Optimization: Ensuring applications are fast and efficient.
+Collaborative Projects: Working closely with teams to deliver high-quality software.
+Tech Stack:
+Languages: JavaScript, HTML, CSS
+Frameworks & Libraries: React.js, Redux, PrimeReact
+Tools: Git, Bit Bucket
+Design: Figma, Adobe XD
 
 
 
-## I'm a Freelance Developer and Student!!
+## I'm a Front-end Developer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
