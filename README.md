@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Hamza Akram -
-I'm a passionate front-end developer with over a year of professional experience specializing in React.js. I thrive on building dynamic, responsive web applications and continuously exploring new technologies to enhance user experiences.
+I'm a passionate MERN stack developer with over a year of professional experience specializing in MERN . I thrive on building dynamic, responsive web applications and continuously exploring new technologies to enhance user experiences.
 
 
 - 🌱 I’m currently learning everything 🤣
